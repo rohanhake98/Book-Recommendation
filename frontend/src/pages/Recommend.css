@@ -1,0 +1,7 @@
+/* frontend/src/pages/Recommend.css */
+.recommend-page { padding: 20px; }
+.recommend-header { text-align: center; margin-bottom: 30px; }
+.user-input-section { margin-bottom: 30px; }
+.tab-navigation { display: flex; gap: 10px; flex-wrap: wrap; }
+.tab-button { padding: 10px 20px; border: none; cursor: pointer; }
+.tab-button.active { background: #007bff; color: #fff; }

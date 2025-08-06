@@ -1,0 +1,4 @@
+/* frontend/src/pages/Book.css */
+.book-page { padding: 20px; }
+.loading-container, .error-container { text-align: center; margin-top: 40px; }
+.back-button { margin-bottom: 20px; }
